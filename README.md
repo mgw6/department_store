@@ -6,7 +6,7 @@ Brook University. Written in July 2020.
 The Department Store java application contains a method that provides
 menu with options to interact with the program and update the store
 inventory information. This program is made to simulate an Amazon store 
-with no cashers, so it tracks all items by their Radio Frequency Identification 
+with no casheirs, so  all itemsare tracked by their Radio Frequency Identification 
 (RFID) number. 
 
 Menu Options include:
