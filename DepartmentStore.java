@@ -107,7 +107,7 @@ public class DepartmentStore
 					inTag = "";
 					while (DepartmentStore.rfidChecker(inTag) ==  false)
 					{
-						System.out.println("A valid RFID is 9 charectets between 0-9 and A-f");
+						System.out.println("A valid RFID is 9 charecters between 0-9 and A-f");
 						System.out.printf("\nPlease enter the RFID tag: ");
 						inTag = scanTag.nextLine().toUpperCase();
 					}				
