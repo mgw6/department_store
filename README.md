@@ -8,7 +8,7 @@ The Department Store java application contains a method that provides
 inventory information. 
 
 Menu Options include:
--Clean Store:
+- Clean Store:
 	- Returns all items in the store to their correct location
--Instert an item into the list:
+- Instert an item into the list:
 	- Add an item to the store. 
